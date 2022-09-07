@@ -1,0 +1,22 @@
+﻿Faction Name,Faction type,Relationship,Alignment,Tags,Goals,Assets,Actions
+Starlight,Regional Hegemon,1,1,Colonists,Military Conquest,,Attack
+The Black Company,Eugenics Cult,2,2,Deep Rooted,Commercial Expansion,,Buy Asset
+Stellaris Global Industries,Criminal Org,3,3,Eugenics Cult,Intellgience Coup,,Change Homeworld
+Meakin Co.,TechNet,,,Exchange Consulate,Planetary Seizure,,Expand Influence
+Harkana Group,Glorious Evolotion Proponents,hostile,Criminal,Fanatical,Expand Inlfuence,,Refit Asset
+Z9XRAV5,Refugee Flotila,neutral,neutral ,Imperialists,Blood the Enemy,,Repair Asset/Faction
+Hellarion,Shadow Broker,friendly,lawful,Machiavellian,Peaceable Kingdom,,Sell Asset
+Orbfire,Zealous Faith,,,Mercenary Group,Destroy the Foe,,Seize Planet
+RTI inc.,Hivemind,,,Perimeter Agency,Inside Enemy Territory,,Use Asset Ability
+Elan Megacorp,Military Hegemony,,,Pirates,Invicible Valor,,
+Coralline Family,Mercanary Group,,,Planetary Government,Wealth of Worlds,,
+The Defiance,Rebel Freedom Fighters,,,Plutocratic,,,
+Plutcondia Combine,Lost World,,,Pereceptor Archive,,,
+New Africo,Backwater Planet,,,Psychic Academy,,,
+,Systems Alliance,,,Warlike,,,
+,Mercantile Combine,,,Theocratic,,,
+,Teamsters,,,Technical Expertise,,,
+,Science Corp,,,Secretive,,,
+,Indsutry Corp,,,Scavengers,,,
+,Colony World,,,Savage,,,
+,Religious Group,,,,,,

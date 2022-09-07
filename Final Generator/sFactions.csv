@@ -1,0 +1,18 @@
+﻿Faction Name,Faction Type,Relationship,Alignment,Hit Points,Force Rating,Cunning Rating,Wealth Rating,FacCreds,Experience Points,Homeworld,Tags,Goals,Assets,Actions
+Starlight,Military Hegemony,Hostile,Lawful,A,1,1,1,A,A,A,A,Military Conquest,A,Attack
+The Black Company,Mercanary Group,Neutral,Neutral,A,2,2,2,A,A,A,A,Commercial Expansion,A,Buy Asset
+Stellaris Global Industries,Religious Group,Friendly,Criminal,A,3,3,3,A,A,A,A,Intellgience Coup,,Change Homeworld
+Meakin Co.,Hivemind,,,,4,4,4,A,A,A,A,Planetary Seizure,,Expand Influence
+Harkana Group,Systems Alliance,,,,5,5,5,,,,,Expand Inlfuence,,Refit Asset
+Z9XRAV5,Mercantile Combine,,,,6,6,6,,,,,Blood the Enemy,,Repair Asset/Faction
+Hellarion,Regional Hegemon,,,,7,7,7,,,,,Peaceable Kingdom,,Sell Asset
+Orbfire,Eugenics Cult,,,,8,8,8,,,,,Destroy the Foe,,Seize Planet
+RTI inc.,Rebel Freedom Fighters,,,,,,,,,,,Inside Enemy Territory,,Use Asset Ability
+Elan Megacorp,Teamsters,,,,,,,,,,,Invicible Valor,,
+Coralline Family,Criminal Org,,,,,,,,,,,Wealth of Worlds,,
+The Defiance,TechNet,,,,,,,,,,,,,
+Plutcondia Combine,Glorious Evolotion Proponents,,,,,,,,,,,,,
+New Africo,Refugee Flotila,,,,,,,,,,,,,
+,Shadow Broker,,,,,,,,,,,,,
+,Science Corp,,,,,,,,,,,,,
+,Indsutry Corp,,,,,,,,,,,,,
